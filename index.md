@@ -1,3 +1,7 @@
+---
+theme: ""
+---
+
 # Política de Privacidade — Vanlink Condutor
 
 **Última atualização:** 08 de julho de 2026
